@@ -1,0 +1,60 @@
+Basic Of Internet: 
+
+ISP - Internet serivice provider 
+
+DNS - Domain Name space 
+
+we have IP Address for each ISP connections 
+
+Browser wars:
+
+Browser war is nothing but the war held between the browser. Finally they formed a commity and came for solution to follow a set of rules. so each browser developed their own styles by developing HTML praser and CSS praser and Javascript Engine.Each browser have differnt verison name like google has v8, and firefox has spider monkey and Edge has Chakra and finally safari has javascript core. 
+
+If we are visiting a website the website must to understand HTML,CSS,JS so that they have developed different praser to display the browser in our computer 
+
+
+DOM TREE:
+
+It is like a Map of thw website beacuse it shows all the parts of the website and how they are connected. It act as a Blueprint for the browser it act as a magic key for the browser.
+
+
+CSSOM TREE:
+
+It is used to understnd the CSS coadings to the broswer in that we can change the colour,look and feel by using the CSSOM. 
+
+JAVASCRIPT ENGINE:
+
+Javascript engine is used to read the js files in the browser and act accordingly in the diaplsy page. 
+
+HTML Praser:
+To understand the HTML coading we use the HTML praser
+
+CSS praser:
+To understand the CSS caoding we use the CSS praser. 
+
+
+HTTP:- HYPR TEXT TRSNFER PROGRAM.
+It is way of communiating one computer to another by using rules and regulation of Https. It is also called as tranfer Protocol
+
+EVOLUTION OF HTTP:
+1.HTTP basic version[Http/1.0] simple way for computer to understand eachother.
+
+2. HTTP/1.1- This version made things faster by allowing the computers to reuse the information.
+
+3. cookies and cache are made up of in the Evolutoin Period of HTTP. 
+
+4. HTTP/2.0- This version is used to send and receive more information at the same time. 
+
+MAC ADDRESS:-
+
+It is nothing but it has the address of the device which will be unique MAC address. which is used to identify the device at what we are looking for. 
+
+HTTP METHODS:
+
+Get- Read
+Post- Create
+put- Update
+Delete- Delete
+
+
+ 
