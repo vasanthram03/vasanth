@@ -1,0 +1,17 @@
+FSD - Full Stack Developer 
+
+Every website will run on the based framework like 
+1. Front End- HTML,CSS,JS[React,Angular] 
+2. Back End - NodeJS, PHP,.Net, Ruby
+3. Database - SQL, Mongo DP, etc..
+
+Document object:
+	It is like a notebook in that we can read and write.The browser will act as a Document object
+
+Windows object:
+	It is nothing but a magical window. it shows that what is running inside the website. It is clearly said as Browser is called as window object. 
+
+Browser JS:
+	It is used in front end operation 
+Node JS:
+	It is used in Backend operation. 
